@@ -1,4 +1,5 @@
 # Manual de Automatizacion con JUnit 5 + Selenium (Page Object)
+[![CI](https://github.com/jsaldaza/trainig_GI_JUnit5_PObject_2026/actions/workflows/ci.yml/badge.svg)](https://github.com/jsaldaza/trainig_GI_JUnit5_PObject_2026/actions/workflows/ci.yml)
 
 Este proyecto es un laboratorio didactico para aprender automatizacion UI con **JUnit 5** y **Selenium** usando **Page Object Model (POM)**. Se elimino Screenplay y pruebas unitarias para enfocarnos en una sola forma de trabajo y entenderla a profundidad.
 
